@@ -29,6 +29,31 @@
               "essentials/navigation",
               "essentials/reusable-snippets"
             ]
+          },
+          {
+            "group": "Topics",
+            "pages": [
+              "Getting Started",
+              "Referral Transactions",
+              "Membership Management",
+              "Sales Training"
+            ]
+          },
+          {
+            "group": "Get Started",
+            "pages": [
+              "index",
+              "quickstart",
+              "development"
+            ]
+          },
+          {
+            "group": "Get Started",
+            "pages": [
+              "index",
+              "quickstart",
+              "development"
+            ]
           }
         ]
       }
