@@ -33,10 +33,10 @@
           {
             "group": "Topics",
             "pages": [
-              "Getting Started",
-              "Referral Transactions",
-              "Membership Management",
-              "Sales Training"
+              "getting-started",
+              "referral-transactions",
+              "membership-management",
+              "sales-training"
             ]
           },
           {
