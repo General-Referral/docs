@@ -5,7 +5,7 @@
   "colors": {
     "primary": "#525f7f"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.ico",
   "navigation": {
     "tabs": [
       {
