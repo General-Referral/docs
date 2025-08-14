@@ -3,7 +3,8 @@
   "theme": "mint",
   "name": "General Referral",
   "colors": {
-    "primary": "#525f7f"
+    "primary": "#525f7f",
+    "primaryDark": "#ea580c"
   },
   "favicon": "/favicon.ico",
   "navigation": {
