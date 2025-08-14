@@ -60,19 +60,6 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "Documentation",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          }
-        ]
       }
     ],
     "global": {
