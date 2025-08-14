@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:mintlify.com)",
+      "WebFetch(domain:app.generalreferral.com)",
+      "Bash(node:*)",
+      "Bash(npm:*)",
+      "WebFetch(domain:docs.mintlify.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -9,25 +9,61 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Knowledge Base",
         "groups": [
           {
-            "group": "Topics",
+            "group": "Overview",
             "pages": [
-              "getting-started",
-              "referral-transactions",
-              "membership-management",
-              "sales-training"
+              "knowledge-base/index"
             ]
           },
           {
-            "group": "Get Started",
+            "group": "Getting Started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "knowledge-base/getting-started/index",
+              "knowledge-base/getting-started/how-to-sign-up",
+              "knowledge-base/getting-started/cost-to-hang-license",
+              "knowledge-base/getting-started/nj-restrictions",
+              "knowledge-base/getting-started/create-business-cards",
+              "knowledge-base/getting-started/find-license-number"
             ]
           },
+          {
+            "group": "Referral Transactions",
+            "pages": [
+              "knowledge-base/referral-transactions/index",
+              "knowledge-base/referral-transactions/how-to-submit-referral",
+              "knowledge-base/referral-transactions/how-to-get-paid",
+              "knowledge-base/referral-transactions/selecting-partner-agent",
+              "knowledge-base/referral-transactions/who-receives-referral"
+            ]
+          },
+          {
+            "group": "Membership Management", 
+            "pages": [
+              "knowledge-base/membership-management/index",
+              "knowledge-base/membership-management/membership-renewal",
+              "knowledge-base/membership-management/state-license-renewal",
+              "knowledge-base/membership-management/update-payment-method",
+              "knowledge-base/membership-management/manage-membership",
+              "knowledge-base/membership-management/cant-access-questionnaire"
+            ]
+          },
+          {
+            "group": "Sales Training",
+            "pages": [
+              "knowledge-base/sales-training/index",
+              "knowledge-base/sales-training/finding-leads",
+              "knowledge-base/sales-training/prospecting-scripts",
+              "knowledge-base/sales-training/what-to-say-to-leads",
+              "knowledge-base/sales-training/marketing-strategies"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Documentation",
+        "groups": [
           {
             "group": "Get Started",
             "pages": [
