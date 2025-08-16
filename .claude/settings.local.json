@@ -5,7 +5,8 @@
       "WebFetch(domain:app.generalreferral.com)",
       "Bash(node:*)",
       "Bash(npm:*)",
-      "WebFetch(domain:docs.mintlify.com)"
+      "WebFetch(domain:docs.mintlify.com)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []

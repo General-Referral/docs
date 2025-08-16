@@ -10,6 +10,30 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Home",
+        "groups": [
+          {
+            "group": "Welcome",
+            "pages": [
+              "index"
+            ]
+          },
+          {
+            "group": "Getting Started",
+            "pages": [
+              "getting-started/new-members",
+              "getting-started/current-members"
+            ]
+          },
+          {
+            "group": "Feature Updates",
+            "pages": [
+              "feature-updates/index"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Knowledge Base",
         "groups": [
           {
