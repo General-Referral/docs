@@ -72,7 +72,11 @@
               "knowledge-base/membership-management/state-license-renewal",
               "knowledge-base/membership-management/update-payment-method",
               "knowledge-base/membership-management/manage-membership",
-              "knowledge-base/membership-management/cant-access-questionnaire"
+              "knowledge-base/membership-management/cant-access-questionnaire",
+              "knowledge-base/membership-management/cancel-plan",
+              "knowledge-base/membership-management/member-portal-login",
+              "knowledge-base/membership-management/pay-amount-due",
+              "knowledge-base/membership-management/switch-to-full-service"
             ]
           },
           {
@@ -82,7 +86,8 @@
               "knowledge-base/sales-training/finding-leads",
               "knowledge-base/sales-training/prospecting-scripts",
               "knowledge-base/sales-training/what-to-say-to-leads",
-              "knowledge-base/sales-training/marketing-strategies"
+              "knowledge-base/sales-training/marketing-strategies",
+              "knowledge-base/sales-training/why-some-referrals-never-close"
             ]
           }
         ]
