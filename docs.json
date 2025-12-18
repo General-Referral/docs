@@ -118,7 +118,11 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Members",
+          "anchor": "Dashboard",
+          "href": "https://app.generalreferral.com/dashboard",
+          "icon": "log-in"
+        },        {
+          "anchor": "Members (Legacy Dashboard)",
           "href": "https://app.generalreferral.com/members",
           "icon": "slack"
         },
