@@ -120,11 +120,11 @@
         {
           "anchor": "Dashboard",
           "href": "https://app.generalreferral.com/dashboard",
-          "icon": "login"
+          "icon": "gauge"
         },        {
           "anchor": "Members (Legacy Dashboard)",
           "href": "https://app.generalreferral.com/members",
-          "icon": "slack"
+          "icon": "people-group"
         },
         {
           "anchor": "Blog",
