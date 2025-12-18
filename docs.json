@@ -147,8 +147,8 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Members",
-      "href": "https://app.generalreferral.com/members"
+      "label": "Dashboard",
+      "href": "https://app.generalreferral.com/dashboard"
     }
   },
   "footer": {
