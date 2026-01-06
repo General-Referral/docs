@@ -7,6 +7,25 @@
   },
   "favicon": "/favicon.ico",
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Dashboard",
+          "icon": "gauge",
+          "href": "https://app.generalreferral.com/dashboard"
+        },
+        {
+          "anchor": "Members (Legacy Dashboard)",
+          "icon": "people-group",
+          "href": "https://app.generalreferral.com/members"
+        },
+        {
+          "anchor": "Blog",
+          "icon": "newspaper",
+          "href": "https://www.generalreferral.com/blog"
+        }
+      ]
+    },
     "tabs": [
       {
         "tab": "Home",
@@ -44,6 +63,7 @@
           {
             "group": "Getting Started",
             "pages": [
+              "knowledge-base/getting-started/create-your-gr-account",
               "knowledge-base/getting-started/index",
               "knowledge-base/getting-started/how-to-sign-up",
               "knowledge-base/getting-started/cost-to-hang-license",
@@ -87,7 +107,7 @@
             ]
           },
           {
-            "group": "Membership Management", 
+            "group": "Membership Management",
             "pages": [
               "knowledge-base/membership-management/index",
               "knowledge-base/membership-management/membership-renewal",
@@ -114,25 +134,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Dashboard",
-          "href": "https://app.generalreferral.com/dashboard",
-          "icon": "gauge"
-        },        {
-          "anchor": "Members (Legacy Dashboard)",
-          "href": "https://app.generalreferral.com/members",
-          "icon": "people-group"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://www.generalreferral.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
