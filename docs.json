@@ -3,7 +3,9 @@
   "theme": "mint",
   "name": "General Referral",
   "colors": {
-    "primary": "#525f7f" 
+    "primary": "#525f7f",
+    "light": "#7f95be",
+    "dark": "#ea580c"
   },
   "favicon": "/favicon.ico",
   "navigation": {
@@ -41,6 +43,12 @@
             "pages": [
               "getting-started/new-members",
               "getting-started/current-members"
+            ]
+          },
+          {
+            "group": "Updates",
+            "pages": [
+              "feature-updates/index"
             ]
           }
         ]
