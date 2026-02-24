@@ -42,12 +42,6 @@
               "getting-started/new-members",
               "getting-started/current-members"
             ]
-          },
-          {
-            "group": "Feature Updates",
-            "pages": [
-              "feature-updates/index"
-            ]
           }
         ]
       },
@@ -61,7 +55,7 @@
             ]
           },
           {
-            "group": "Getting Started",
+            "group": "Onboarding & Licensing",
             "pages": [
               "knowledge-base/getting-started/create-your-gr-account",
               "knowledge-base/getting-started/index",
@@ -132,6 +126,25 @@
               "knowledge-base/sales-training/what-to-say-to-leads",
               "knowledge-base/sales-training/marketing-strategies",
               "knowledge-base/sales-training/why-some-referrals-never-close"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Compare",
+        "groups": [
+          {
+            "group": "Broker Comparison",
+            "pages": [
+              "compare/index",
+              "compare/weichert-referral",
+              "compare/coldwell-banker-referral",
+              "compare/referral-group-inc",
+              "compare/nj-real-estate-referral-group",
+              "compare/statewide-referral",
+              "compare/nrs-referrals",
+              "compare/realty-connect",
+              "compare/nj-referral-network"
             ]
           }
         ]
