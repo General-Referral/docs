@@ -176,6 +176,11 @@
       "href": "https://app.generalreferral.com/dashboard"
     }
   },
+  "integrations": {
+    "posthog": {
+      "apiKey": "phc_5sy9EQ2Q6vI6dV5MBfupH5JbhVJjqLYfgPDsXgSDTYg"
+    }
+  },
   "footer": {
     "socials": {
       "github": "https://github.com/General-Referral",
