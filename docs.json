@@ -112,6 +112,16 @@
         ]
       },
       {
+        "group": "Team Leaders",
+        "pages": [
+          "knowledge-base/team-leaders/your-team-dashboard",
+          "knowledge-base/team-leaders/your-team-roster",
+          "knowledge-base/team-leaders/notifications",
+          "knowledge-base/team-leaders/delegated-referrals",
+          "knowledge-base/team-leaders/branding-logo-and-colors"
+        ]
+      },
+      {
         "group": "Updates",
         "pages": [
           "feature-updates/index"
