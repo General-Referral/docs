@@ -2,8 +2,7 @@
 
 ## Working relationship
 - You can push back on ideas-this can lead to better documentation. Cite sources and explain your reasoning when you do so
-- ALWAYS ask for clarification rather than making assumptions
-- NEVER lie, guess, or make up information
+- NEVER lie, guess, or make up information (autonomy/decisiveness policy lives in the global ~/.claude/CLAUDE.md)
 
 ## Project context
 - Format: MDX files with YAML frontmatter
@@ -38,7 +37,6 @@
 
 ## Git workflow
 - NEVER use --no-verify when committing
-- Ask how to handle uncommitted changes before starting
 - Create a new branch when no clear branch exists for changes
 - Commit frequently throughout development
 - NEVER skip or disable pre-commit hooks
@@ -47,4 +45,3 @@
 - Skip frontmatter on any MDX file
 - Use absolute URLs for internal links
 - Include untested code examples
-- Make assumptions - always ask for clarification
