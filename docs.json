@@ -157,5 +157,11 @@
       "github": "https://github.com/General-Referral",
       "linkedin": "https://linkedin.com/company/general-referral"
     }
-  }
+  },
+  "redirects": [
+    {
+      "source": "/compare/:slug*",
+      "destination": "/compare"
+    }
+  ]
 }
