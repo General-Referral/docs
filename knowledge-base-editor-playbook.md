@@ -386,7 +386,7 @@ Any important information users should know
 ### Common Links You'll Need
 - Member Portal: `https://app.generalreferral.com/members`
 - Plans Page: `https://www.generalreferral.com/plans`
-- Contact Form: `https://app.generalreferral.com/contact`
+- Contact Form: `https://app.generalreferral.com/dashboard/support`
 - Commission Calculator: `https://www.generalreferral.com/commission-calculator`
 
 ### File Naming Examples
